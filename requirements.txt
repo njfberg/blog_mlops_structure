@@ -1,0 +1,9 @@
+black
+fastapi
+flake8
+isort
+joblib
+mlflow
+pandas
+pydantic
+scikit-learn
